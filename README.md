@@ -1,7 +1,13 @@
 # GameWebsite
 URL: https://stevejobsinfo2.com/
 
-This was a fun little game website I made in 5th grade. It gained a lot of traction and somehow thousands of users. This was my first project that people could utilize in their day-to-day life. It is hidden behind another early website I made right before the game website. This is so the school wouldn't take the website down. I made the website masking the game one and is just an informational site about steve jobs.
+
+A Journey from 5th Grade
+
+This website is a throwback to my early days as a web developer. It's a fun little game website, that believe it or not, gained quite a following. To keep the project under the radar, it's cleverly tucked away behind another early website I designed just before the game website's release. The main reason for this hidden approach was to make sure the school wouldn't take it down, as this was my first project that had real-world utility.
+
+Please Note
+The code behind this project is a bit messy, and I wouldn't recommend using it as a reference for modern web development. It's a charming relic from the past, showcasing my early exploration of the web development world. Feel free to browse around, reminisce, and if you're feeling particularly brave, take a peek at the code (just don't judge too harshly!).
 
 
-* *code is messy and not meant to be used as a reference for anything, just a fun old project* 
+Disclaimer: This website is not affiliated with Apple Inc. or Steve Jobs' official legacy. It's a fan-made project created for *educational* purposes.
